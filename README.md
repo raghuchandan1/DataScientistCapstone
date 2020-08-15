@@ -8,15 +8,15 @@ This project uses transfer learning to predict the breed of a dog and in case of
 ## Dependencies
 
 The project is built using Python 3 in an Anaconda environment. It also makes uses of the following packages:
-	- opencv-python
-	- h5py==2.6.0
-	- matplotlib==2.0.0
-	- numpy==1.12.0
-	- scipy==0.18.1
-	- tqdm==4.11.2
-	- scikit-learn==0.18.1
-	- keras==2.0.2
-	- tensorflow==1.0.0 
+- opencv-python
+- h5py==2.6.0
+- matplotlib==2.0.0
+- numpy==1.12.0
+- scipy==0.18.1
+- tqdm==4.11.2
+- scikit-learn==0.18.1
+- keras==2.0.2
+- tensorflow==1.0.0 
 ## Data
 
 The given data has a total of 133 total dog categories. There are 8351 total dog images belonging to one of the 133 categories. These images are used to train the model and then predict the breed.
