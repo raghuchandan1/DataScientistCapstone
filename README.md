@@ -122,3 +122,5 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 
 ## Results
 The model was able to reach an accuracy of 84.92% on test data.
+
+[Link to Medium article](https://medium.com/@raghuchandan1/dog-breeds-classification-with-cnn-transfer-learning-5b992d58ee85)
